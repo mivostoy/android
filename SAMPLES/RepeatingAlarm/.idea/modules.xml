@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RepeatingAlarm.iml" filepath="$PROJECT_DIR$/RepeatingAlarm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RepeatingAlarmSample/RepeatingAlarmSample.iml" filepath="$PROJECT_DIR$/RepeatingAlarmSample/RepeatingAlarmSample.iml" />
+    </modules>
+  </component>
+</project>
+

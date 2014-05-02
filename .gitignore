@@ -1,0 +1,9 @@
+.settings
+.metadata
+.gradle
+.idea
+**/.idea
+**/.gradle
+**/build
+**/target
+**/*.classes

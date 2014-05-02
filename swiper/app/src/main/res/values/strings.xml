@@ -2,5 +2,6 @@
 <resources>
 
     <string name="app_name">Swiper</string>
+    <string name="action_settings">test</string>
 
 </resources>

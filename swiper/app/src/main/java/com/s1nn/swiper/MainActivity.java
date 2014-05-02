@@ -74,7 +74,7 @@ public class MainActivity extends Activity {
             else
             {
                 // horizontal
-                if (dx>0)
+                if (dx<0)
                 {
                     txt.setText("LEFT");
 //                    txt.setRotation(90);
